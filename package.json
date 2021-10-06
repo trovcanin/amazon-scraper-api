@@ -1,0 +1,18 @@
+{
+  "name": "amazon-scraper-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Tarik Rovcanin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
