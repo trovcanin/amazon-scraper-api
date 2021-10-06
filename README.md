@@ -14,3 +14,7 @@
 ```sh
 /search/:searchQuery
 ```
+```sh
+Example product ID:
+B07MLQJZZL - Lenovo Ideapad 3
+```
